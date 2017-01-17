@@ -4,25 +4,25 @@ This is an angular boiler plate with Jasmine ,Karma and Protractor
 
 ```
 	> git clone https://github.com/rasamsh/Angularapp.git
-  > cd Angularapp
+  	> cd Angularapp
 	> npm install
 
 ```
 ```
 	> cd app
-  > bower install
-  > cd ..
+  	> bower install
+  	> cd ..
 	> gulp
-  > open localhost:8000 in the browser
+  	> open localhost:8000 in the browser
 
 ```
 ###To run test cases and code coverage###
 
 ```
 	> cd app
-  > cd js
-  > cd test
+  	> cd js
+  	> cd test
 	> karma start karma.conf.js
-  > go the coverage folder and open index.html
+  	> go the coverage folder and open index.html
 
 ```

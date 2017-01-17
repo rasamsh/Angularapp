@@ -1,5 +1,5 @@
 #Angularapp
-This is an angular boiler plate with Jasmine ,Karma and Protractor  
+This is an angular boiler plate with Jasmine, Karma, Protractor and polymer js
 ###Getting Started###
 
 ```

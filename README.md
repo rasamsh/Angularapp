@@ -23,6 +23,6 @@ This is an angular boiler plate with Jasmine, Karma, Protractor and polymer js
   	> cd js
   	> cd test
 	> karma start karma.conf.js
-  	> go the coverage folder and open index.html
+  	> go to the coverage folder and open index.html
 
 ```
